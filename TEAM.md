@@ -1,14 +1,19 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Patrik Isaksson
+Role: Ceo & Founder www.credz.io
 
 ## Team Member 1
 
-Name: [name]
-Role: [role]
+Name: Jimmy Bergman
+Role: Co-Founder & Dev-Ops
 
 ## Team Member 2
 
-Name: [name]
-Role: [role]
+Name: Abel Mugwagwa 
+Role: South Africa Team Manager
+
+## Team Member 3
+
+Name: Collen Chikwenya
+Role: South Africa Team Manager
