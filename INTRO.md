@@ -1,1 +1,1 @@
-A short introduction about your team
+Credz.io is a social reward platform that gives its users several different options to create digital income streams. We pay out 95% of the tron blockreward to our voters and our voters will be eligable for trx and trc20 airdrops from our website.
