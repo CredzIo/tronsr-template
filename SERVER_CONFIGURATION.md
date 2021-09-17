@@ -1,6 +1,6 @@
-Describe your server configurat
+Describe your server config
 
-3 HP ProLiant DL industry-standard physical servers (1x Witness Node, 1x Backup Node, 1x Application Node) at 2 different locations
+3 Dell industry-standard physical servers (1x Witness Node, 1x Backup Node, 1x Application Node) at 2 different locations
 
 Server equipment:
 
