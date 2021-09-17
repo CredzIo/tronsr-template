@@ -1,1 +1,1 @@
-Describe the plan to support the community
+Credz.io will bring alot of new users to the TRON network via our Social Platform. In order to further grow the network, we also market both the platform and the services via our own affiliate network. This brings new users to the entire ecosystem.
