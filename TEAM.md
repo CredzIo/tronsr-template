@@ -11,9 +11,9 @@ Role: Co-Founder & Dev-Ops
 ## Team Member 2
 
 Name: Abel Mugwagwa 
-Role: South Africa Team Manager
+Role: Africa Team Manager
 
 ## Team Member 3
 
 Name: Collen Chikwenya
-Role: South Africa Team Manager
+Role: Africa Team Manager
