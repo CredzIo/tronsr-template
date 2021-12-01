@@ -5,8 +5,8 @@ Role: Ceo & Founder www.credz.io
 
 ## Team Member 1
 
-Name: Jimmy Bergman
-Role: Co-Founder & Dev-Ops
+Name: Lilian Black
+Role: Co-Founder & Chairperson Advisory Board
 
 ## Team Member 2
 
@@ -16,4 +16,4 @@ Role: Africa Team Manager
 ## Team Member 3
 
 Name: Collen Chikwenya
-Role: Africa Team Manager
+Role: Africa Team Manager & Cheif of Sales
