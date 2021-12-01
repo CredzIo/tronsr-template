@@ -11,9 +11,9 @@ Role: Co-Founder & Chairperson Advisory Board
 ## Team Member 2
 
 Name: Abel Mugwagwa 
-Role: Africa Team Manager
+Role: Co-Founder & Africa Team Manager
 
 ## Team Member 3
 
 Name: Collen Chikwenya
-Role: Africa Team Manager & Cheif of Sales
+Role: Co-Founder & Africa Team Manager
